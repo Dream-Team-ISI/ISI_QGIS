@@ -1,0 +1,22 @@
+<Layout worldFileMap="" units="mm" printResolution="" name="">
+<LayoutItem anchorPoint="0" positionOnPage="1.51235,1.00823,mm" outlineWidthM="0.3,mm" northOffset="0" size="13.657,10.0823,mm" svgBorderColor="0,0,0,255" position="1.51235,1.00823,mm" pictureWidth="8.03166" type="65640" svgFillColor="255,255,255,255" excludeFromExports="0" groupUuid="" background="false" id="IAEA Logo" zValue="3" itemRotation="0" visibility="1" templateUuid="{063dc736-922b-4f0f-9e91-01c84208006f}" positionLock="false" file="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/International_Atomic_Energy_Agency_Logo.svg/194px-International_Atomic_Energy_Agency_Logo.svg.png" opacity="1" frameJoinStyle="miter" pictureHeight="10.0823" mapUuid="" pictureRotation="0" resizeMode="0" frame="false" blendMode="0" uuid="{063dc736-922b-4f0f-9e91-01c84208006f}" svgBorderWidth="0.2" referencePoint="0" northMode="0">
+  <FrameColor green="0" blue="0" red="0" alpha="255"/>
+  <BackgroundColor green="255" blue="255" red="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" name="name" value=""/>
+     <Option type="Map" name="properties">
+      <Option type="Map" name="dataDefinedMapLabelMargin">
+       <Option type="bool" name="active" value="false"/>
+       <Option type="QString" name="expression" value=""/>
+       <Option type="int" name="type" value="3"/>
+      </Option>
+     </Option>
+     <Option type="QString" name="type" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+ </LayoutItem>
+</Layout>

@@ -1,0 +1,34 @@
+<Layout worldFileMap="" units="mm" printResolution="" name="">
+<LayoutItem itemRotation="0" visibility="1" templateUuid="{6b816a55-cdc3-4f72-ab00-a50262b39dd6}" marginX="0" opacity="1" positionLock="false" id="Site Name" position="14.7914,2.4,mm" valign="32" blendMode="0" positionOnPage="14.7914,2.4,mm" htmlState="1" type="65641" outlineWidthM="0.3,mm" halign="1" referencePoint="0" groupUuid="" frameJoinStyle="miter" labelText="&lt;style>&#xa;div.SiteName {&#xa;&#x9;color: black;&#xa;&#x9;font-family: Times;&#xa;&#x9;font-size: 0.875em;&#xa;&#x9;font-weight: bold;&#xa;&#x9;text-align: left;&#xa;&#x9;margin-top:1.3mm;&#xa;&#x9;margin-left: 2mm;&#xa;}&#xa;&lt;/style>&#xa;&#xa;&lt;div class = &quot;SiteName&quot;>Site name&#xa;&lt;/div>" marginY="0" background="false" uuid="{6b816a55-cdc3-4f72-ab00-a50262b39dd6}" zValue="2" size="26,8.6,mm" excludeFromExports="0" frame="false">
+  <FrameColor red="0" green="0" blue="0" alpha="255"/>
+  <BackgroundColor red="255" green="255" blue="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="Times New Roman,12,-1,5,75,0,0,0,0,0" style=""/>
+  <FontColor red="0" green="0" blue="0" alpha="255"/>
+ </LayoutItem>
+<LayoutItem itemRotation="0" visibility="1" templateUuid="{1afd4b30-bdd3-4658-98d9-247ff5cd52d7}" marginX="1" opacity="1" positionLock="false" id="Main text body" position="0.91655,15.1235,mm" valign="32" blendMode="0" positionOnPage="0.91655,15.1235,mm" htmlState="1" type="65641" outlineWidthM="0.3,mm" halign="1" referencePoint="0" groupUuid="" frameJoinStyle="miter" labelText="&lt;style>&#xa;div.bodytext {&#xa;&#x9;color: black;&#xa;&#x9;font-family: Times;&#xa;&#x9;font-size: 0.625em;&#xa;&#x9;text-align: justify;&#xa;}&#xa;div.mainheading {&#xa;&#x9;color: black;&#xa;&#x9;font-family: Times;&#xa;&#x9;font-size: 0.875em;&#xa;&#x9;text-align: left;&#xa;&#x9;font-weight: bold;&#xa;}&#xa;div.subheading {&#xa;&#x9;color: black;&#xa;&#x9;font-family: Times;&#xa;&#x9;font-size: 0.625em;&#xa;&#x9;text-align: left;&#xa;&#x9;font-weight: bold;&#xa;}&#xa;&lt;/style>&#xa;&#xa;&lt;div class = &quot;mainheading&quot;>This is a heading&lt;/div>&#xa;&lt;br>&#xa;&lt;div class = &quot;subheading&quot;>This is a subheading&lt;/div>&#xa;&lt;br>&#xa;&lt;div class = &quot;bodytext&quot;>This is some text. We need to see whether the text wraps gracefully or not. Let's also see if we can put in a &lt;a href=&quot;www.google.com&quot;>Hyperlink&lt;/a> to Google&lt;/div>" marginY="1" background="false" uuid="{1afd4b30-bdd3-4658-98d9-247ff5cd52d7}" zValue="26" size="79.7497,161.437,mm" excludeFromExports="0" frame="false">
+  <FrameColor red="0" green="0" blue="0" alpha="255"/>
+  <BackgroundColor red="255" green="255" blue="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" style=""/>
+  <FontColor red="0" green="0" blue="0" alpha="255"/>
+ </LayoutItem>
+</Layout>

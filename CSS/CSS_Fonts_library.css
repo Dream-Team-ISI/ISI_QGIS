@@ -1,0 +1,83 @@
+<style>
+div.coordinates {
+	color: black;
+	font-family: Calibri;
+	font-size: 0.625em;
+	text-align: left;
+	font-weight: bold;
+	margin-top: 1.3mm;
+	margin-left: 2.5mm;
+	margin-right: 2.5mm;
+}
+div.coordinatesR {
+	color: #ff0000;
+	font-family: Calibri;
+	font-size: 0.625em;
+	text-align: left;
+	font-weight: bold;
+	margin-top: 1.3mm;
+	margin-left: 2.5mm;
+	margin-right: 2.5mm;
+}
+div.restricted {
+	color: #ff0000;
+	font-family: Segoe UI;
+	font-size: 21px;
+	text-align: center;
+}
+div.SiteName {
+	color: black;
+	font-family: Segoe UI;
+	font-size: 21px;
+	text-align: left;
+}
+div.bodytext {
+	color: black;
+	font-family: Segoe UI;
+	font-size: 18px;
+	text-align: justify;
+	line-height: 1.1;
+}
+div.mainheading {
+	color: black;
+	font-family: Segoe UI;
+	font-size: 20px;
+	text-align: left;
+	font-weight: bold;
+}
+div.subheading {
+	color: black;
+	font-family: Segoe UI;
+	font-size: 18px;
+	text-align: left;
+	font-weight: bold;
+}
+div.copyno {
+	color: black;
+	font-family: Segoe UI;
+	font-size: 18px;
+	text-align: right;
+	font-weight: bold;
+	margin-top:5px;
+	margin-right: 5px;
+}
+div.refno {
+	color: black;
+	font-family: Segoe UI;
+	font-size: 18px;
+	text-align: left;
+	font-weight: bold;
+	margin-top:5px;
+	margin-left:5px;	
+}
+div.pageno {
+	color: black;
+	font-family: Segoe UI;
+	font-size: 18px;
+	text-align: right;
+	font-weight: bold;
+	margin-top:5px;
+	margin-right: 5px;
+}
+</style>
+
