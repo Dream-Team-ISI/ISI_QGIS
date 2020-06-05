@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="488.15088"
+   height="485.22244"
+   id="svg2">
+  <defs
+     id="defs6" />
+  <path fill="param(fill) #FFF" stroke="param(outline) #000" stroke-width="param(outline-width) 1"
+     d="M 244.83044,0.00350609 A 37.925687,39.70698 0 0 0 218.62323,11.55479 L 12.932981,225.54157 a 37.925687,39.70698 0 1 0 53.45688,56.33146 L 245.23585,95.779115 423.03933,282.4794 a 37.925687,39.70698 0 1 0 53.68855,-56.08891 L 272.19595,11.676063 A 37.925687,39.70698 0 0 0 244.83044,0.00350609 z"
+     id="path2985" />
+  <path fill="param(fill) #FFF" stroke="param(outline) #000" stroke-width="param(outline-width) 1"
+     d="M 243.42782,190.72562 A 37.925687,39.70698 0 0 0 217.22061,202.2769 L 11.53035,416.26368 a 37.925687,39.70698 0 1 0 53.45688,56.33146 l 178.846,-186.09391 177.80348,186.70028 A 37.925687,39.70698 0 1 0 475.32526,417.1126 L 270.79333,202.39818 a 37.925687,39.70698 0 0 0 -27.36551,-11.67256 z"
+     id="path2985-1" />
+</svg>

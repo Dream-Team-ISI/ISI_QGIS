@@ -1,0 +1,34 @@
+<Layout worldFileMap="" units="mm" printResolution="" name="">
+<LayoutItem itemRotation="0" visibility="1" templateUuid="{4030cc2e-3621-4543-90b7-edbe1f33138a}" marginX="0" opacity="1" positionLock="false" id="Restricted Label Bottom" position="0,202.1,mm" valign="32" blendMode="0" positionOnPage="0,202.1,mm" htmlState="1" type="65641" outlineWidthM="0.3,mm" halign="1" referencePoint="0" groupUuid="" frameJoinStyle="miter" labelText="&lt;style>&#xa;div.restricted {&#xa;&#x9;color: #ff0000;&#xa;&#x9;font-family: Times;&#xa;&#x9;font-size: 0.875em;&#xa;&#x9;font-weight: bold;&#xa;&#x9;text-align: center;&#xa;&#x9;margin-top:1.3mm;&#xa;&#x9;margin-left: 10mm;&#xa;}&#xa;&lt;/style>&#xa;&#xa;&lt;div class = &quot;restricted&quot;>IAEA RESTRICTED/SG&#xa;&lt;/div>" marginY="0" background="false" uuid="{4030cc2e-3621-4543-90b7-edbe1f33138a}" zValue="18" size="297,8.6,mm" excludeFromExports="0" frame="false">
+  <FrameColor red="0" green="0" blue="0" alpha="255"/>
+  <BackgroundColor red="255" green="255" blue="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" style=""/>
+  <FontColor red="31" green="120" blue="180" alpha="255"/>
+ </LayoutItem>
+ <LayoutItem itemRotation="0" visibility="1" templateUuid="{0b82748e-017f-44a4-ac76-7cebe5d11ca5}" marginX="0" opacity="1" positionLock="false" id="Restricted Label Top" position="0,2.4,mm" valign="32" blendMode="0" positionOnPage="0,2.4,mm" htmlState="1" type="65641" outlineWidthM="0.3,mm" halign="4" referencePoint="0" groupUuid="" frameJoinStyle="miter" labelText="&lt;style>&#xa;div.restricted {&#xa;&#x9;color: #ff0000;&#xa;&#x9;font-family: Times;&#xa;&#x9;font-size: 0.875em;&#xa;&#x9;font-weight: bold;&#xa;&#x9;text-align: center;&#xa;&#x9;margin-top:1.3mm;&#xa;&#x9;margin-left: 10mm;&#xa;}&#xa;&lt;/style>&#xa;&#xa;&lt;div class = &quot;restricted&quot;>IAEA RESTRICTED/SG&#xa;&lt;/div>" marginY="0" background="false" uuid="{0b82748e-017f-44a4-ac76-7cebe5d11ca5}" zValue="17" size="297,8.6,mm" excludeFromExports="0" frame="false">
+  <FrameColor red="0" green="0" blue="0" alpha="255"/>
+  <BackgroundColor red="255" green="255" blue="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" style=""/>
+  <FontColor red="31" green="120" blue="180" alpha="255"/>
+ </LayoutItem>
+</Layout>

@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<Layout name="" printResolution="" units="mm" worldFileMap="">
+	<LayoutItem background="false" blendMode="0" excludeFromExports="0" frame="false" frameJoinStyle="miter" groupUuid="" halign="1" htmlState="1" id="Site Name" itemRotation="0" labelText="&lt;style&gt; div.SiteName {  color: black;  font-family: Times;  font-size: 0.875em;  font-weight: bold;  text-align: left;  margin-top:1.3mm;  margin-left: 2mm; } &lt;/style&gt;  &lt;div class = &quot;SiteName&quot;&gt;Site name &lt;/div&gt;" marginX="0" marginY="0" opacity="1" outlineWidthM="0.3,mm" position="14.7914,2.4,mm" positionLock="false" positionOnPage="14.7914,2.4,mm" referencePoint="0" size="26,8.6,mm" templateUuid="{6b816a55-cdc3-4f72-ab00-a50262b39dd6}" type="65641" uuid="{6b816a55-cdc3-4f72-ab00-a50262b39dd6}" valign="32" visibility="1" zValue="2">
+		  
+		<FrameColor alpha="255" blue="0" green="0" red="0"/>
+		  
+		<BackgroundColor alpha="255" blue="255" green="255" red="255"/>
+		  
+		<LayoutObject>
+			   
+			<dataDefinedProperties>
+				    
+				<Option type="Map">
+					     
+					<Option name="name" type="QString" value=""/>
+					     
+					<Option name="properties"/>
+					     
+					<Option name="type" type="QString" value="collection"/>
+					    
+				</Option>
+				   
+			</dataDefinedProperties>
+			   
+			<customproperties/>
+			  
+		</LayoutObject>
+		  
+		<LabelFont description="Times New Roman,12,-1,5,75,0,0,0,0,0" style=""/>
+		  
+		<FontColor alpha="255" blue="0" green="0" red="0"/>
+		 
+	</LayoutItem>
+	 
+	<LayoutItem background="false" blendMode="0" excludeFromExports="0" frame="false" frameJoinStyle="miter" groupUuid="" halign="1" htmlState="1" id="Main text body" itemRotation="0" labelText="
+&lt;style&gt;
+p {
+	color: black;
+	font-family: Times;
+	font-size: 0.625em;
+	text-align: justify;
+	margin-left: 2mm;
+	margin-right: 2mm;
+	margin-top: 1.5mm;
+}
+h2 {
+	color: black;
+	font-family: Times;
+	font-size: 0.850em;
+	text-align: justify;
+	margin-left: 2mm;
+	margin-right: 2mm;
+	margin-top: 1.5mm;
+}
+div.mainheading {
+	color: black;
+	font-family: Times;
+	font-size: 0.875em;
+	text-align: left;
+	font-weight: bold;
+}
+div.subheading {
+	color: black;
+	font-family: Times;
+	font-size: 0.625em;
+	text-align: left;
+	font-weight: bold;
+}
+&lt;/style&gt;
+&lt;p&gt;I met a traveller from an antique land 
+Who said: Two vast and trunkless legs of stone
+Stand in the desert. Near them, on the sand,
+Half sunk, a shattered visage lies, whose frown,
+And wrinkled lip, and sneer of cold command,
+Tell that its sculptor well those passions read
+Which yet survive, stamped on these lifeless things,
+The hand that mocked them and the heart that fed:
+And on the pedestal these words appear:
+&lt;strong&gt;'My name is Ozymandias, king of kings:
+Look on my works, ye Mighty, and despair!'&lt;/strong&gt;
+Nothing beside remains. Round the decay
+Of that colossal wreck, boundless and bare
+The lone and level sands stretch far away.&lt;/p&gt;
+&lt;p&gt;I was angry with my friend:
+I told my wrath, my wrath did end.
+I was angry with my foe:
+I told it not, my wrath did grow.
+And I watered it in fears,
+Night and morning with my tears;
+And I sunned it with smiles,
+And with soft deceitful wiles.
+And it grew both day and night,
+Till it bore an apple bright.
+And my foe beheld it shine.
+And he knew that it was mine,
+And into my garden stole
+When the night had veiled the pole;
+In the morning glad I see
+My foe outstretched beneath the tree.&lt;/p&gt;" marginX="1" marginY="1" opacity="1" outlineWidthM="0.3,mm" position="1.251,171.878,mm" positionLock="false" positionOnPage="1.251,171.878,mm" referencePoint="0" size="294.497,32.686,mm" templateUuid="{1afd4b30-bdd3-4658-98d9-247ff5cd52d7}" type="65641" uuid="{1afd4b30-bdd3-4658-98d9-247ff5cd52d7}" valign="32" visibility="1" zValue="26">
+		  
+		<FrameColor alpha="255" blue="0" green="0" red="0"/>
+		  
+		<BackgroundColor alpha="255" blue="255" green="255" red="255"/>
+		  
+		<LayoutObject>
+			   
+			<dataDefinedProperties>
+				    
+				<Option type="Map">
+					     
+					<Option name="name" type="QString" value=""/>
+					     
+					<Option name="properties"/>
+					     
+					<Option name="type" type="QString" value="collection"/>
+					    
+				</Option>
+				   
+			</dataDefinedProperties>
+			   
+			<customproperties/>
+			  
+		</LayoutObject>
+		  
+		<LabelFont description="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" style=""/>
+		  
+		<FontColor alpha="255" blue="0" green="0" red="0"/>
+		 
+	</LayoutItem>
+</Layout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="251.00185"
+   height="367.75"
+   id="svg2">
+  <path fill="param(fill) #FFF" stroke="param(outline) #000" stroke-width="param(outline-width) 1"
+     d="m 6.90625,134.15625 5.78125,12.09375 76.15776,0 0,-12.09375 z"
+     id="path4882" />
+  <path fill="param(fill) #FFF" stroke="param(outline) #000" stroke-width="param(outline-width) 1"
+     d="m 153.18944,134.40797 0,12.09375 44.84181,-0.25172 26.0625,54.375 14.03125,0 -31.84375,-66.46875 z"
+     id="rect4684-2-7" />
+  <path fill="param(fill) #FFF" stroke="param(outline) #000" stroke-width="param(outline-width) 1"
+     d="m 4,173.21875 5.78125,12.09375 78.87651,0 0,-12.09375 z"
+     id="path4888" />
+  <path fill="param(fill) #FFF" stroke="param(outline) #000" stroke-width="param(outline-width) 1"
+     d="m 152.97069,173.47047 0,12.09375 42.15431,-0.25172 26.0625,54.375 14.03125,0 -31.84375,-66.46875 z"
+     id="rect4684-2" />
+  <path fill="param(fill) #FFF" stroke="param(outline) #000" stroke-width="param(outline-width) 1"
+     d="m 120.74248,9.984508 -40,69.1875 20,0 0,209.375002 -20,0 40,69.21875 40,-69.21875 -20,0 0,-209.375002 20,0 -40,-69.1875 z"
+     id="path4697" />
+  <path fill="param(fill) #FFF" stroke="param(outline) #000" stroke-width="param(outline-width) 1"
+     d="m 12.87321,193.36032 31.84375,66.46875 199.37501,0 -5.78125,-12.09375 -185.34376,0 -26.0625,-54.375 -14.03125,0 z"
+     id="rect4684" />
+  <path fill="param(fill) #FFF" stroke="param(outline) #000" stroke-width="param(outline-width) 1"
+     d="m 15.7831,154.27722 31.84375,66.46874 199.37499,0 -5.78125,-12.09375 -185.34374,0 -26.0625,-54.37499 -14.03125,0 z"
+     id="rect4684-6" />
+</svg>

@@ -1,0 +1,18 @@
+<Layout worldFileMap="" units="mm" printResolution="" name="">
+<LayoutItem itemRotation="0" visibility="1" templateUuid="{099c0270-2dad-41dd-bfef-7693f07dc674}" marginX="0" opacity="1" positionLock="false" id="Copy_No." position="274.5,2,mm" valign="32" blendMode="0" positionOnPage="274.5,2,mm" htmlState="1" type="65641" outlineWidthM="0.3,mm" halign="1" referencePoint="0" groupUuid="" frameJoinStyle="miter" labelText="&lt;style>&#xa;div.copyno {&#xa;&#x9;color: black;&#xa;&#x9;font-family: Times;&#xa;&#x9;font-size: 0.625em;&#xa;&#x9;text-align: right;&#xa;&#x9;font-weight: bold;&#xa;&#x9;margin-top: 1.3mm;&#xa;&#x9;margin-right: 2.5mm;&#xa;}&#xa;&lt;/style>&#xa;&#xa;&lt;div class = &quot;copyno&quot;>Copy 0&#xa;&lt;/div>" marginY="0" background="false" uuid="{099c0270-2dad-41dd-bfef-7693f07dc674}" zValue="8" size="22.5,6.8,mm" excludeFromExports="0" frame="false">
+  <FrameColor red="0" green="0" blue="0" alpha="255"/>
+  <BackgroundColor red="255" green="255" blue="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="Times New Roman,12,-1,5,75,0,0,0,0,0" style=""/>
+  <FontColor red="0" green="0" blue="0" alpha="255"/>
+ </LayoutItem>
+</Layout>

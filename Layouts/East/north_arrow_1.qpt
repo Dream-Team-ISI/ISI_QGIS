@@ -1,0 +1,22 @@
+<Layout worldFileMap="" units="mm" printResolution="" name="">
+<LayoutItem anchorPoint="0" positionOnPage="272.677,15.1235,mm" outlineWidthM="0.3,mm" northOffset="0" size="19.2481,18.4461,mm" svgBorderColor="0,0,0,255" position="272.677,15.1235,mm" pictureWidth="17.7544" type="65640" svgFillColor="255,255,255,255" excludeFromExports="0" groupUuid="" background="false" id="North_arrow" zValue="25" itemRotation="0" visibility="1" templateUuid="{43d41f98-6989-4b3a-a37e-f4336f39b290}" positionLock="false" file="https://www.svgrepo.com/download/98072/cardinal-points.svg" opacity="1" frameJoinStyle="miter" pictureHeight="18.4461" mapUuid="{2c3178fa-deec-4939-9fb8-8e6d4b2a6db5}" pictureRotation="0" resizeMode="0" frame="false" blendMode="0" uuid="{43d41f98-6989-4b3a-a37e-f4336f39b290}" svgBorderWidth="0.2" referencePoint="0" northMode="0">
+  <FrameColor green="0" blue="0" red="0" alpha="255"/>
+  <BackgroundColor green="255" blue="255" red="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" name="name" value=""/>
+     <Option type="Map" name="properties">
+      <Option type="Map" name="dataDefinedMapLabelMargin">
+       <Option type="bool" name="active" value="false"/>
+       <Option type="QString" name="expression" value=""/>
+       <Option type="int" name="type" value="3"/>
+      </Option>
+     </Option>
+     <Option type="QString" name="type" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+ </LayoutItem>
+</Layout>

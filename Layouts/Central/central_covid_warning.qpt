@@ -1,0 +1,18 @@
+<Layout worldFileMap="" units="mm" printResolution="" name="">
+<LayoutItem itemRotation="0" visibility="1" templateUuid="{d1a9bc89-2c9a-4e7a-ae02-7d9641bcced8}" marginX="0" opacity="1" positionLock="false" id="Warning" position="185.4,1.4,mm" valign="32" blendMode="0" positionOnPage="185.4,1.4,mm" htmlState="1" type="65641" outlineWidthM="0.3,mm" halign="4" referencePoint="0" groupUuid="" frameJoinStyle="miter" labelText="&lt;style>&#xa;div.warning {&#xa;&#x9;color: red;&#xa;&#x9;font-family: Times;&#xa;&#x9;font-size: 0.5em;&#xa;&#x9;font-style: italic;&#xa;&#x9;text-align: center;&#xa;&#x9;font-weight: normal;&#xa;&#x9;margin-top: 1.3mm;&#xa;&#x9;margin-left: 2.5mm;&#xa;}&#xa;&lt;/style>&#xa;&#xa;&lt;div class = &quot;warning&quot;>This INFOGRAPHIC  product has been generated under contingency measures with limited access to safeguards relevant information.&#xa;&#xa;&lt;/div>" marginY="0" background="false" uuid="{d1a9bc89-2c9a-4e7a-ae02-7d9641bcced8}" zValue="11" size="67.3,12.8,mm" excludeFromExports="0" frame="false">
+  <FrameColor red="0" green="0" blue="0" alpha="255"/>
+  <BackgroundColor red="192" green="192" blue="192" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" style=""/>
+  <FontColor red="0" green="0" blue="0" alpha="255"/>
+ </LayoutItem>
+</Layout>
