@@ -11,7 +11,7 @@ div.coordinates {
 }
 div.coordinatesR {
 	color: #ff0000;
-	font-family: Calibri;
+	font-family: Times New Roman;
 	font-size: 0.625em;
 	text-align: left;
 	font-weight: bold;
@@ -27,34 +27,34 @@ div.restricted {
 }
 div.SiteName {
 	color: black;
-	font-family: Segoe UI;
+	font-family: Times New Roman;
 	font-size: 21px;
 	text-align: left;
 }
 div.bodytext {
 	color: black;
-	font-family: Segoe UI;
+	font-family: Times New Roman;
 	font-size: 18px;
 	text-align: justify;
 	line-height: 1.1;
 }
 div.mainheading {
 	color: black;
-	font-family: Segoe UI;
+	font-family: Times New Roman;
 	font-size: 20px;
 	text-align: left;
 	font-weight: bold;
 }
 div.subheading {
 	color: black;
-	font-family: Segoe UI;
+	font-family: Times New Roman;
 	font-size: 18px;
 	text-align: left;
 	font-weight: bold;
 }
 div.copyno {
 	color: black;
-	font-family: Segoe UI;
+	font-family: Times New Roman;
 	font-size: 18px;
 	text-align: right;
 	font-weight: bold;
@@ -63,7 +63,7 @@ div.copyno {
 }
 div.refno {
 	color: black;
-	font-family: Segoe UI;
+	font-family: Times New Roman;
 	font-size: 18px;
 	text-align: left;
 	font-weight: bold;
@@ -72,7 +72,7 @@ div.refno {
 }
 div.pageno {
 	color: black;
-	font-family: Segoe UI;
+	font-family: Times New Roman;
 	font-size: 18px;
 	text-align: right;
 	font-weight: bold;
